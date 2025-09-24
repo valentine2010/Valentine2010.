@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <body>
+        <table border>
+<tr>
+    <th>IMAGEN</th>
+<th>DATOS</th>
+</tr>
+<tr>
+<td><img src="https://i.pinimg.com/1200x/18/13/76/18137683474f3166f7d6c3098ad4da08.jpg" alt="esta es una imagen de Leclerc" height="450" width="300"/></td>
+<td>Norris</td>
+</tr>
+    </table>
+        </body>
+    </head>
+</html>
